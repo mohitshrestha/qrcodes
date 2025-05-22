@@ -1,3 +1,8 @@
+---
+title: "QR Codes"
+toc: false
+---
+
 <h1 align="center"><img src="assets/media/qrcode-solid.svg" width="30" height="30"/> QR Codes </h1>
 <p align="center">🌟 **Your All-in-One QR Code Solution** 🌟</p>
 
@@ -16,19 +21,6 @@ is your go-to tool. Try it out today and experience the future of connectivity w
 step of the way!
 
 ---
-
-<p align="center">
-        <img src="https://img.shields.io/github/created-at/mohitshrestha/qrcodes"/>
-        <img src="https://img.shields.io/github/commit-activity/m/mohitshrestha/qrcodes"/>
-        <img src="https://img.shields.io/github/forks/mohitshrestha/qrcodes"/>
-        <img src="https://img.shields.io/github/stars/mohitshrestha/qrcodes"/>
-        <img src="https://img.shields.io/github/watchers/mohitshrestha/qrcodes"/>
-</p>
-
-## Contributions
-
-Contributions, issues, and feature requests are welcome!  
-Feel free to fork the repository and submit a pull request with your enhancements.
 
 ## Acknowledgments
 
